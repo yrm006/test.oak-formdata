@@ -20,3 +20,5 @@ deno 1.10.1 (release, aarch64-apple-darwin)
 v8 9.1.269.27
 typescript 4.2.2
 ```
+
+browser: Safari Version 14.1 (16611.1.21.161.6)
